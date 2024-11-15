@@ -1,0 +1,11 @@
+Student_Code,Cumulative_Score,Class_Participation,Financial_Aid_Status,Age_Group,Credits_Completed,Study_Hours,Engagement_Level
+S001,85.5,80,Yes,18-22,120,15,High
+S002,90.2,85,No,23-27,110,18,Medium
+S003,78.9,75,Yes,18-22,130,12,Low
+S004,88,90,No,28-32,100,20,High
+S005,91.4,92,Yes,18-22,140,22,High
+S006,76.3,70,No,23-27,115,10,Low
+S007,82.7,80,Yes,18-22,125,17,Medium
+S008,87.1,86,No,28-32,105,19,High
+S009,80.5,79,Yes,23-27,135,14,Medium
+S010,89.9,88,No,18-22,120,16,High
